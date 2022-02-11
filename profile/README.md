@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[Jumping Rivers](https://www.jumpingrivers.com/) is a data science consultancy specialising in #RStats and #Python
+[Jumping Rivers](https://www.jumpingrivers.com/) is a data science consultancy specialising in #RStats and Python
 
 ## Our services
 
