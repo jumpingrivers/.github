@@ -19,7 +19,7 @@ We also :purple_heart: open source and maintain a couple of R packages and tools
 - [{inteRgrate}](https://github.com/jumpingrivers/inteRgrate) Continuous Integration
 - [{HIBPwned}](https://github.com/jumpingrivers/HIBPwned) Wrapper for HaveIBeenPwned.com API
 - [{zxcvbnR}](https://github.com/jumpingrivers/zxcvbnR) Password Strength Estimator
-- [R Meetups](https://github.com/jumpingrivers/meetingsR)
+- 📆 [R Meetups](https://github.com/jumpingrivers/meetingsR)
 
 
 Like what we do? Come [work with us](https://jumping-rivers.welcomekit.co/).
