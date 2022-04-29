@@ -15,6 +15,7 @@ We can help you with:
 
 We also :purple_heart: open source and maintain a couple of R packages and tools
 
+- [diffify](https://github.com/jumpingrivers/diffify) Quick and easy comparison between different versions of any R package stored on CRAN
 - [{datasauRus}](https://github.com/jumpingrivers/datasauRus) Datasaurus Dozen datasets 
 - [{inteRgrate}](https://github.com/jumpingrivers/inteRgrate) Continuous Integration
 - [{HIBPwned}](https://github.com/jumpingrivers/HIBPwned) Wrapper for HaveIBeenPwned.com API
