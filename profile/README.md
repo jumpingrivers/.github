@@ -22,7 +22,6 @@ We also :purple_heart: open source and maintain a couple of R packages and tools
 - [{zxcvbnR}](https://github.com/jumpingrivers/zxcvbnR) Password Strength Estimator
 - [{ibmsunburst}](https://github.com/jumpingrivers/ibmsunburst) Wrapper for IBM  JS library for Sunburst personality insights charts
 - [{nameR}](https://github.com/jumpingrivers/nameR) Labelling chunks of RMarkdown files
-- [{headR}](https://github.com/jumpingrivers/headR) creating html summary cards for your R markdown files
 - 📆 [R Meetups](https://github.com/jumpingrivers/meetingsR)
 
 
