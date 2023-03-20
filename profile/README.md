@@ -26,5 +26,5 @@ We also :purple_heart: open source and maintain a couple of R packages and tools
 Like what we do? 
 
  - Come [work with us](https://jumping-rivers.welcomekit.co/).
- - Catch us on <a href="https://fosstodon.org/@jumpingrivers" rel="me">Mastodon</a>, [twitter](https://twitter.com/jumping_uk), 
+ - Catch us on <a rel="me" href="https://fosstodon.org/@jumpingrivers">Mastodon</a>, [twitter](https://twitter.com/jumping_uk), 
  [LinkedIn](https://www.linkedin.com/company/21945868/) and [YouTube](https://www.youtube.com/@jumping-rivers)
